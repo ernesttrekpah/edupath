@@ -1,0 +1,37 @@
+# Python-related ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# FastAPI/Uvicorn logs
+*.log
+
+# Data files
+data/
+*.json
+
+# Model files
+models/
+*.h5
+
+# NLTK downloaded data
+nltk_data/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*.swo

@@ -1,0 +1,7 @@
+python -m uvicorn main:app --reload
+
+
+. venv/Scripts/activate
+
+
+url:  http://127.0.0.1:8000/docs
