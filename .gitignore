@@ -13,12 +13,12 @@ env/
 *.log
 
 # Data files
-data/
-*.json
+# data/
+# *.json
 
 # Model files
-models/
-*.h5
+# models/
+# *.h5
 
 # NLTK downloaded data
 nltk_data/

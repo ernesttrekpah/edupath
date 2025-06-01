@@ -1,0 +1,1892 @@
+[
+  {
+    "university": "University of Education, Winneba",
+    "faculty": "College of Education",
+    "programme": "Bachelor of Education in English",
+    "course_type": "Undergraduate",
+    "interest_area": "Education",
+    "core_subjects": ["English", "Mathematics", "Integrated Science/Social Studies"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Literature", "Communication Skills"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "Supplementary tests/interviews may be required",
+    "job_prospects": [
+      {
+        "title": "School Teacher",
+        "description": "Deliver engaging lessons and foster language and literacy development in classroom settings."
+      },
+      {
+        "title": "Curriculum Developer",
+        "description": "Design innovative curricula and educational materials to enhance language education."
+      },
+      {
+        "title": "Educational Administrator",
+        "description": "Manage and lead educational institutions, ensuring effective teaching and learning processes."
+      }
+    ]
+  },
+  {
+    "university": "University of Education, Winneba",
+    "faculty": "College of Education",
+    "programme": "Bachelor of Education in Mathematics",
+    "course_type": "Undergraduate",
+    "interest_area": "Education",
+    "core_subjects": ["Mathematics", "English", "Integrated Science/Social Studies"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Mathematics Education", "Analytical Skills"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "May require a teaching aptitude test",
+    "job_prospects": [
+      {
+        "title": "Mathematics Teacher",
+        "description": "Teach mathematics at various educational levels and inspire analytical thinking."
+      },
+      {
+        "title": "Curriculum Designer",
+        "description": "Develop and refine mathematics curricula and learning resources for effective instruction."
+      },
+      {
+        "title": "Educational Researcher",
+        "description": "Conduct research to improve teaching methods and evaluate learning outcomes in mathematics."
+      }
+    ]
+  },
+  {
+    "university": "University of Education, Winneba",
+    "faculty": "College of Education",
+    "programme": "Bachelor of Education in Science",
+    "course_type": "Undergraduate",
+    "interest_area": "Education",
+    "core_subjects": ["Integrated Science", "English", "Mathematics"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Biology", "Chemistry", "Physics"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "Supplementary assessments may apply",
+    "job_prospects": [
+      {
+        "title": "Science Teacher",
+        "description": "Teach general science subjects in schools, inspiring curiosity and scientific inquiry."
+      },
+      {
+        "title": "Curriculum Developer",
+        "description": "Design science education programs and materials that meet modern educational standards."
+      },
+      {
+        "title": "Educational Outreach Coordinator",
+        "description": "Implement outreach initiatives to promote science education in communities."
+      }
+    ]
+  },
+  {
+    "university": "University of Education, Winneba",
+    "faculty": "College of Education",
+    "programme": "Bachelor of Education in Social Studies",
+    "course_type": "Undergraduate",
+    "interest_area": "Education",
+    "core_subjects": ["Social Studies", "English", "Mathematics"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["History", "Geography", "Civics"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "May require an interview",
+    "job_prospects": [
+      {
+        "title": "Social Studies Teacher",
+        "description": "Educate students about history, geography, and civic responsibilities."
+      },
+      {
+        "title": "Community Development Officer",
+        "description": "Implement and manage educational programs that support community growth."
+      },
+      {
+        "title": "Policy Researcher",
+        "description": "Conduct research and analysis to shape educational policies and reforms."
+      }
+    ]
+  },
+  {
+    "university": "University of Education, Winneba",
+    "faculty": "College of Education",
+    "programme": "Bachelor of Education in Early Childhood Education",
+    "course_type": "Undergraduate",
+    "interest_area": "Education",
+    "core_subjects": ["English", "Mathematics", "Integrated Science/Social Studies"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Child Psychology", "Creative Arts"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "Interview recommended",
+    "job_prospects": [
+      {
+        "title": "Kindergarten Teacher",
+        "description": "Teach young learners foundational skills in a nurturing environment."
+      },
+      {
+        "title": "Early Childhood Curriculum Planner",
+        "description": "Develop age-appropriate programs that support early development."
+      },
+      {
+        "title": "Program Administrator",
+        "description": "Manage early childhood education centers and coordinate learning activities."
+      }
+    ]
+  },
+  {
+    "university": "University of Education, Winneba",
+    "faculty": "College of Education",
+    "programme": "Bachelor of Education in Special Needs Education",
+    "course_type": "Undergraduate",
+    "interest_area": "Education",
+    "core_subjects": ["Integrated Science/Social Studies", "English", "Mathematics"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Psychology", "Special Needs Pedagogy"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "May include additional screening",
+    "job_prospects": [
+      {
+        "title": "Special Needs Teacher",
+        "description": "Provide specialized instruction tailored to students with diverse learning needs."
+      },
+      {
+        "title": "Intervention Specialist",
+        "description": "Develop targeted programs and strategies to support special education."
+      },
+      {
+        "title": "Educational Support Coordinator",
+        "description": "Coordinate resources and services to enhance the learning experience for special needs students."
+      }
+    ]
+  },
+  {
+    "university": "University of Education, Winneba",
+    "faculty": "College of Education",
+    "programme": "Bachelor of Education in Educational Administration",
+    "course_type": "Undergraduate",
+    "interest_area": "Education",
+    "core_subjects": ["English", "Mathematics", "Social Studies"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Management", "Leadership Studies"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "Interview and aptitude tests may apply",
+    "job_prospects": [
+      {
+        "title": "School Administrator",
+        "description": "Oversee administrative operations and strategic planning in schools."
+      },
+      {
+        "title": "Educational Manager",
+        "description": "Manage academic programs and support institutional leadership."
+      },
+      {
+        "title": "Policy Implementation Officer",
+        "description": "Facilitate the execution of educational policies and monitor outcomes."
+      }
+    ]
+  },
+  {
+    "university": "University of Education, Winneba",
+    "faculty": "College of Education",
+    "programme": "Bachelor of Education in French",
+    "course_type": "Undergraduate",
+    "interest_area": "Education",
+    "core_subjects": ["English", "Mathematics", "Social Studies"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["French Language", "Cultural Studies"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "May require language proficiency tests",
+    "job_prospects": [
+      {
+        "title": "French Language Teacher",
+        "description": "Teach French language and culture in secondary schools and language institutes."
+      },
+      {
+        "title": "Translator/Interpreter",
+        "description": "Facilitate cross-cultural communication by translating written and spoken French."
+      },
+      {
+        "title": "Cultural Exchange Coordinator",
+        "description": "Organize programs that promote international cultural and educational exchanges."
+      }
+    ]
+  },
+  {
+    "university": "University of Education, Winneba",
+    "faculty": "College of Education",
+    "programme": "Bachelor of Education in ICT Education",
+    "course_type": "Undergraduate",
+    "interest_area": "Education/Technology",
+    "core_subjects": ["English", "Mathematics", "Integrated Science"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Information Technology", "Computer Applications"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "Technical aptitude may be assessed",
+    "job_prospects": [
+      {
+        "title": "ICT Educator",
+        "description": "Integrate technology into the curriculum and teach digital literacy in schools."
+      },
+      {
+        "title": "E-Learning Coordinator",
+        "description": "Develop and manage online learning platforms to enhance digital education."
+      },
+      {
+        "title": "Digital Education Specialist",
+        "description": "Advise on best practices for incorporating digital tools into educational environments."
+      }
+    ]
+  },
+  {
+    "university": "University of Education, Winneba",
+    "faculty": "College of Education",
+    "programme": "Bachelor of Education in Physical Education",
+    "course_type": "Undergraduate",
+    "interest_area": "Education/Sports",
+    "core_subjects": ["Physical Education", "English", "Mathematics"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Sports Science", "Health Education"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "May require physical fitness assessments",
+    "job_prospects": [
+      {
+        "title": "Physical Education Teacher",
+        "description": "Teach physical education and promote healthy lifestyles in schools."
+      },
+      {
+        "title": "Sports Coach",
+        "description": "Coach and mentor athletes, developing skills and teamwork in various sports."
+      },
+      {
+        "title": "Sports Program Manager",
+        "description": "Plan and manage sports and recreational programs in educational and community settings."
+      }
+    ]
+  },
+  {
+    "university": "University of Ghana, Legon",
+    "faculty": "College of Basic & Applied Sciences",
+    "programme": "Bachelor of Science in Computer Engineering",
+    "course_type": "Undergraduate",
+    "interest_area": "Engineering/Technology",
+    "core_subjects": ["English", "Core Mathematics", "Integrated Science"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Elective Mathematics", "Physics", "Chemistry"],
+    "elective_minimum_grade": "Minimum B3 in Elective Mathematics",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "Aptitude test may be required",
+    "job_prospects": [
+      {
+        "title": "Computer Hardware Engineer",
+        "description": "Design and develop computer hardware systems and components for various applications."
+      },
+      {
+        "title": "Systems Designer",
+        "description": "Plan and implement integrated computer systems to solve technical challenges."
+      },
+      {
+        "title": "Network Engineer",
+        "description": "Manage and troubleshoot computer networks, ensuring system efficiency and reliability."
+      }
+    ]
+  },
+  {
+    "university": "University of Ghana, Legon",
+    "faculty": "College of Basic & Applied Sciences",
+    "programme": "Bachelor of Science in Information Technology",
+    "course_type": "Undergraduate",
+    "interest_area": "Technology",
+    "core_subjects": ["English", "Core Mathematics", "Integrated Science"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["IT Fundamentals", "Elective Mathematics"],
+    "elective_minimum_grade": "Minimum B3",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "May require an aptitude test",
+    "job_prospects": [
+      {
+        "title": "Software Developer",
+        "description": "Design, develop, and test software applications for a variety of platforms."
+      },
+      {
+        "title": "Systems Administrator",
+        "description": "Maintain IT infrastructure and ensure the smooth operation of computer systems."
+      },
+      {
+        "title": "IT Consultant",
+        "description": "Provide expert advice on technology integration and digital transformation strategies."
+      }
+    ]
+  },
+  {
+    "university": "University of Ghana, Legon",
+    "faculty": "College of Business",
+    "programme": "Bachelor of Science in Business Administration",
+    "course_type": "Undergraduate",
+    "interest_area": "Business",
+    "core_subjects": ["English", "Mathematics", "Social Studies"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Economics", "Accounting", "Management"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "30",
+    "additional_requirements": "",
+    "job_prospects": [
+      {
+        "title": "Business Analyst",
+        "description": "Analyze business operations and market trends to support strategic decision-making."
+      },
+      {
+        "title": "Operations Manager",
+        "description": "Oversee daily business operations and drive process improvements."
+      },
+      {
+        "title": "Entrepreneur",
+        "description": "Launch and manage innovative business ventures across various sectors."
+      }
+    ]
+  },
+  {
+    "university": "University of Ghana, Legon",
+    "faculty": "College of Business",
+    "programme": "Bachelor of Science in Economics",
+    "course_type": "Undergraduate",
+    "interest_area": "Business/Economics",
+    "core_subjects": ["English", "Mathematics", "Social Studies"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Economics", "Statistics", "Accounting"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "30",
+    "additional_requirements": "",
+    "job_prospects": [
+      {
+        "title": "Economic Analyst",
+        "description": "Analyze economic data and trends to provide insights for policy and business strategy."
+      },
+      {
+        "title": "Policy Advisor",
+        "description": "Develop and recommend policies to promote economic growth and stability."
+      },
+      {
+        "title": "Research Economist",
+        "description": "Conduct research and analysis to inform economic decision-making in public or private sectors."
+      }
+    ]
+  },
+  {
+    "university": "University of Ghana, Legon",
+    "faculty": "Law Faculty",
+    "programme": "Bachelor of Laws (LLB)",
+    "course_type": "Undergraduate",
+    "interest_area": "Law",
+    "core_subjects": ["English", "Core Mathematics", "Social Studies"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["History", "Literature", "Critical Thinking"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "May include a foundation test/interview",
+    "job_prospects": [
+      {
+        "title": "Lawyer",
+        "description": "Represent clients and provide legal advice across various areas of law."
+      },
+      {
+        "title": "Legal Advisor",
+        "description": "Offer legal guidance to organizations and help navigate regulatory challenges."
+      },
+      {
+        "title": "Corporate Counsel",
+        "description": "Manage legal affairs within corporations, ensuring compliance and risk management."
+      }
+    ]
+  },
+  {
+    "university": "University of Ghana, Legon",
+    "faculty": "College of Basic & Applied Sciences",
+    "programme": "Bachelor of Science in Chemical Engineering",
+    "course_type": "Undergraduate",
+    "interest_area": "Engineering",
+    "core_subjects": ["English", "Core Mathematics", "Integrated Science"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Chemistry", "Physics", "Elective Mathematics"],
+    "elective_minimum_grade": "Minimum B3",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "Aptitude test may be required",
+    "job_prospects": [
+      {
+        "title": "Process Engineer",
+        "description": "Design and optimize chemical processes in industries such as petrochemicals and pharmaceuticals."
+      },
+      {
+        "title": "Production Manager",
+        "description": "Oversee manufacturing operations to ensure efficiency and product quality."
+      },
+      {
+        "title": "R&D Engineer",
+        "description": "Conduct research to develop innovative chemical processes and products."
+      }
+    ]
+  },
+  {
+    "university": "University of Ghana, Legon",
+    "faculty": "Faculty of Agriculture",
+    "programme": "Bachelor of Science in Agriculture",
+    "course_type": "Undergraduate",
+    "interest_area": "Agriculture",
+    "core_subjects": ["English", "Mathematics", "Integrated Science/Social Studies"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Biology", "Chemistry", "Agricultural Science"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "May require practical/field assessment",
+    "job_prospects": [
+      {
+        "title": "Agricultural Consultant",
+        "description": "Advise on modern farming techniques and sustainable agriculture practices."
+      },
+      {
+        "title": "Farm Manager",
+        "description": "Oversee day-to-day farm operations and optimize crop production."
+      },
+      {
+        "title": "Agribusiness Manager",
+        "description": "Manage the business aspects of agricultural production and marketing."
+      }
+    ]
+  },
+  {
+    "university": "University of Ghana, Legon",
+    "faculty": "College of Arts",
+    "programme": "Bachelor of Arts in Political Science",
+    "course_type": "Undergraduate",
+    "interest_area": "Social Sciences",
+    "core_subjects": ["English", "Social Studies", "Core Mathematics"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["History", "Economics", "Civics"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "30",
+    "additional_requirements": "",
+    "job_prospects": [
+      {
+        "title": "Policy Analyst",
+        "description": "Analyze political issues and advise on policy development for governmental and non-governmental organizations."
+      },
+      {
+        "title": "Legislative Assistant",
+        "description": "Support lawmakers with research and the drafting of legislative proposals."
+      },
+      {
+        "title": "Public Affairs Specialist",
+        "description": "Manage communication and advocacy efforts within the public sector."
+      }
+    ]
+  },
+  {
+    "university": "University of Ghana, Legon",
+    "faculty": "College of Arts",
+    "programme": "Bachelor of Arts in History",
+    "course_type": "Undergraduate",
+    "interest_area": "Social Sciences",
+    "core_subjects": ["English", "Social Studies", "Core Mathematics"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["History", "Literature", "Critical Analysis"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "30",
+    "additional_requirements": "",
+    "job_prospects": [
+      {
+        "title": "Historian",
+        "description": "Conduct research on past events and contribute to academic and public understanding of history."
+      },
+      {
+        "title": "Museum Curator",
+        "description": "Manage historical collections and develop exhibits that educate the public."
+      },
+      {
+        "title": "Archivist",
+        "description": "Organize and preserve historical documents and records for future research."
+      }
+    ]
+  },
+  {
+    "university": "University of Ghana, Legon",
+    "faculty": "College of Basic & Applied Sciences",
+    "programme": "Bachelor of Science in Physics",
+    "course_type": "Undergraduate",
+    "interest_area": "Science",
+    "core_subjects": ["English", "Core Mathematics", "Integrated Science"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Physics", "Elective Mathematics", "Chemistry"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "",
+    "job_prospects": [
+      {
+        "title": "Research Scientist",
+        "description": "Conduct advanced research in physics to contribute to scientific innovation."
+      },
+      {
+        "title": "Academic Lecturer",
+        "description": "Teach and mentor students in physics at tertiary institutions."
+      },
+      {
+        "title": "Technical Specialist",
+        "description": "Apply physics principles to solve practical problems in industries such as aerospace and energy."
+      }
+    ]
+  },
+  {
+    "university": "University of Cape Coast",
+    "faculty": "College of Science",
+    "programme": "Bachelor of Science in Biological Sciences",
+    "course_type": "Undergraduate",
+    "interest_area": "Science",
+    "core_subjects": ["English", "Core Mathematics", "Social Studies"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Biology", "Chemistry", "Physics"],
+    "elective_minimum_grade": "Minimum C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "Subject-specific prerequisites may apply",
+    "job_prospects": [
+      {
+        "title": "Research Scientist",
+        "description": "Conduct experiments and contribute to breakthroughs in biological research."
+      },
+      {
+        "title": "Laboratory Technician",
+        "description": "Support research by preparing experiments and analyzing biological samples."
+      },
+      {
+        "title": "Quality Control Analyst",
+        "description": "Monitor and ensure high-quality standards in biological research and product development."
+      }
+    ]
+  },
+  {
+    "university": "University of Cape Coast",
+    "faculty": "College of Health Sciences",
+    "programme": "Bachelor of Science in Nursing",
+    "course_type": "Undergraduate",
+    "interest_area": "Health/Medicine",
+    "core_subjects": ["English", "Core Mathematics", "Social Studies"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Biology", "Chemistry", "Health Science"],
+    "elective_minimum_grade": "Minimum C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "Interview/aptitude test may be required",
+    "job_prospects": [
+      {
+        "title": "Registered Nurse",
+        "description": "Deliver compassionate patient care in hospitals and clinics."
+      },
+      {
+        "title": "Healthcare Administrator",
+        "description": "Manage nursing departments and coordinate patient services."
+      },
+      {
+        "title": "Clinical Specialist",
+        "description": "Provide specialized nursing care and support in clinical settings."
+      }
+    ]
+  },
+  {
+    "university": "University of Cape Coast",
+    "faculty": "College of Science",
+    "programme": "Bachelor of Science in Environmental Science",
+    "course_type": "Undergraduate",
+    "interest_area": "Science/Environment",
+    "core_subjects": ["English", "Core Mathematics", "Social Studies"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Biology", "Chemistry", "Geography"],
+    "elective_minimum_grade": "Minimum C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "",
+    "job_prospects": [
+      {
+        "title": "Environmental Consultant",
+        "description": "Advise organizations on sustainable practices and environmental compliance."
+      },
+      {
+        "title": "Conservation Officer",
+        "description": "Work to preserve natural resources and manage conservation projects."
+      },
+      {
+        "title": "Sustainability Analyst",
+        "description": "Analyze environmental data to promote sustainable development initiatives."
+      }
+    ]
+  },
+  {
+    "university": "University of Cape Coast",
+    "faculty": "College of Science",
+    "programme": "Bachelor of Science in Fisheries and Aquaculture",
+    "course_type": "Undergraduate",
+    "interest_area": "Science/Agriculture",
+    "core_subjects": ["English", "Core Mathematics", "Social Studies"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Biology", "Chemistry", "Agricultural Science"],
+    "elective_minimum_grade": "Minimum C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "Field-based assessment may be required",
+    "job_prospects": [
+      {
+        "title": "Aquaculture Manager",
+        "description": "Oversee fish farming operations and ensure sustainable aquaculture practices."
+      },
+      {
+        "title": "Fisheries Consultant",
+        "description": "Provide expertise on sustainable fishing practices and resource management."
+      },
+      {
+        "title": "Research Analyst",
+        "description": "Conduct research to improve aquaculture methods and enhance production."
+      }
+    ]
+  },
+  {
+    "university": "University of Cape Coast",
+    "faculty": "College of Science",
+    "programme": "Bachelor of Science in Statistics",
+    "course_type": "Undergraduate",
+    "interest_area": "Science/Mathematics",
+    "core_subjects": ["English", "Core Mathematics", "Social Studies"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Mathematics", "Statistics", "Economics"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "",
+    "job_prospects": [
+      {
+        "title": "Data Analyst",
+        "description": "Interpret complex datasets to support business and policy decisions."
+      },
+      {
+        "title": "Statistician",
+        "description": "Apply statistical methods to solve real-world problems across sectors."
+      },
+      {
+        "title": "Research Consultant",
+        "description": "Provide data-driven insights to inform strategic planning and research."
+      }
+    ]
+  },
+  {
+    "university": "University of Cape Coast",
+    "faculty": "College of Science",
+    "programme": "Bachelor of Science in Hospitality Management",
+    "course_type": "Undergraduate",
+    "interest_area": "Business/Management",
+    "core_subjects": ["English", "Core Mathematics", "Social Studies"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Economics", "Business Studies", "Tourism"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "May require practical experience or an interview",
+    "job_prospects": [
+      {
+        "title": "Hotel Manager",
+        "description": "Oversee operations in hotels or resorts, ensuring high-quality guest services."
+      },
+      {
+        "title": "Event Coordinator",
+        "description": "Plan and manage events, from corporate conferences to social gatherings."
+      },
+      {
+        "title": "Tourism Manager",
+        "description": "Develop strategies to promote tourism and manage travel-related operations."
+      }
+    ]
+  },
+  {
+    "university": "University of Cape Coast",
+    "faculty": "College of Communication Studies",
+    "programme": "Bachelor of Science in Communication Studies",
+    "course_type": "Undergraduate",
+    "interest_area": "Media/Communications",
+    "core_subjects": ["English", "Social Studies", "Core Mathematics"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Media Studies", "Public Relations", "Journalism"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "",
+    "job_prospects": [
+      {
+        "title": "Public Relations Specialist",
+        "description": "Manage an organization’s public image and handle media communications."
+      },
+      {
+        "title": "Media Producer",
+        "description": "Create and manage multimedia content for television, radio, or digital platforms."
+      },
+      {
+        "title": "Corporate Communications Manager",
+        "description": "Oversee internal and external communication strategies within a company."
+      }
+    ]
+  },
+  {
+    "university": "University of Cape Coast",
+    "faculty": "College of Science",
+    "programme": "Bachelor of Science in Chemistry",
+    "course_type": "Undergraduate",
+    "interest_area": "Science",
+    "core_subjects": ["English", "Core Mathematics", "Social Studies"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Chemistry", "Biology", "Physics"],
+    "elective_minimum_grade": "Minimum C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "",
+    "job_prospects": [
+      {
+        "title": "Chemical Analyst",
+        "description": "Conduct analyses to ensure products meet industry and safety standards."
+      },
+      {
+        "title": "Research Chemist",
+        "description": "Engage in research to develop new chemical compounds and products."
+      },
+      {
+        "title": "Quality Assurance Specialist",
+        "description": "Monitor and enforce quality control measures in chemical manufacturing."
+      }
+    ]
+  },
+  {
+    "university": "University of Cape Coast",
+    "faculty": "College of Science",
+    "programme": "Bachelor of Science in Physics",
+    "course_type": "Undergraduate",
+    "interest_area": "Science",
+    "core_subjects": ["English", "Core Mathematics", "Social Studies"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Physics", "Elective Mathematics", "Chemistry"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "",
+    "job_prospects": [
+      {
+        "title": "Academic Researcher",
+        "description": "Pursue advanced research projects and contribute to scientific publications in physics."
+      },
+      {
+        "title": "Technical Consultant",
+        "description": "Provide expert advice on technical challenges in industries such as aerospace and energy."
+      },
+      {
+        "title": "Lab Manager",
+        "description": "Supervise laboratory operations and ensure the accuracy of experimental results."
+      }
+    ]
+  },
+  {
+    "university": "University of Cape Coast",
+    "faculty": "College of Social Sciences",
+    "programme": "Bachelor of Arts in Development Studies",
+    "course_type": "Undergraduate",
+    "interest_area": "Social Sciences",
+    "core_subjects": ["English", "Social Studies", "Core Mathematics"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Economics", "Political Science", "Sociology"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "30",
+    "additional_requirements": "",
+    "job_prospects": [
+      {
+        "title": "Community Development Officer",
+        "description": "Implement and oversee projects aimed at improving community infrastructure and services."
+      },
+      {
+        "title": "Policy Advisor",
+        "description": "Develop policies to foster socio-economic growth and address developmental challenges."
+      },
+      {
+        "title": "NGO Program Manager",
+        "description": "Coordinate and manage programs in non-governmental organizations focused on development."
+      }
+    ]
+  },
+  {
+    "university": "KNUST, Kumasi",
+    "faculty": "College of Engineering",
+    "programme": "Bachelor of Science in Electrical Engineering",
+    "course_type": "Undergraduate",
+    "interest_area": "Engineering",
+    "core_subjects": ["English", "Core Mathematics", "Integrated Science"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Elective Mathematics", "Physics", "Chemistry"],
+    "elective_minimum_grade": "Minimum B3 in Elective Mathematics",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "Aptitude test required",
+    "job_prospects": [
+      {
+        "title": "Electrical Engineer",
+        "description": "Design and maintain electrical systems for power generation and distribution."
+      },
+      {
+        "title": "Power Systems Engineer",
+        "description": "Specialize in developing and maintaining robust electrical power grids."
+      },
+      {
+        "title": "Telecommunications Engineer",
+        "description": "Work on the design and implementation of advanced communication networks."
+      }
+    ]
+  },
+  {
+    "university": "KNUST, Kumasi",
+    "faculty": "College of Engineering",
+    "programme": "Bachelor of Science in Civil Engineering",
+    "course_type": "Undergraduate",
+    "interest_area": "Engineering/Construction",
+    "core_subjects": ["English", "Core Mathematics", "Integrated Science"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Elective Mathematics", "Physics", "Chemistry"],
+    "elective_minimum_grade": "Minimum B3 in Elective Mathematics",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "Aptitude test and/or interview",
+    "job_prospects": [
+      {
+        "title": "Structural Engineer",
+        "description": "Design and analyze structures to ensure they are safe, stable, and efficient."
+      },
+      {
+        "title": "Project Manager",
+        "description": "Oversee construction projects from planning to execution, ensuring timely delivery."
+      },
+      {
+        "title": "Urban Planner",
+        "description": "Develop infrastructure plans and design urban spaces that meet community needs."
+      }
+    ]
+  },
+  {
+    "university": "KNUST, Kumasi",
+    "faculty": "College of Engineering",
+    "programme": "Bachelor of Science in Mechanical Engineering",
+    "course_type": "Undergraduate",
+    "interest_area": "Engineering",
+    "core_subjects": ["English", "Core Mathematics", "Integrated Science"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Physics", "Chemistry", "Elective Mathematics"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "May require practical assessments",
+    "job_prospects": [
+      {
+        "title": "Mechanical Engineer",
+        "description": "Design and develop mechanical systems and machinery for diverse industries."
+      },
+      {
+        "title": "Manufacturing Engineer",
+        "description": "Optimize production processes to improve efficiency and product quality."
+      },
+      {
+        "title": "Maintenance Engineer",
+        "description": "Ensure the reliable operation of mechanical systems through regular maintenance."
+      }
+    ]
+  },
+  {
+    "university": "KNUST, Kumasi",
+    "faculty": "College of Engineering",
+    "programme": "Bachelor of Science in Chemical Engineering",
+    "course_type": "Undergraduate",
+    "interest_area": "Engineering",
+    "core_subjects": ["English", "Core Mathematics", "Integrated Science"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Chemistry", "Physics", "Elective Mathematics"],
+    "elective_minimum_grade": "Minimum B3 in Elective Mathematics",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "Aptitude test may be required",
+    "job_prospects": [
+      {
+        "title": "Process Engineer",
+        "description": "Design and optimize chemical processes in industries like petrochemicals and pharmaceuticals."
+      },
+      {
+        "title": "Production Manager",
+        "description": "Oversee production operations and ensure processes run efficiently and safely."
+      },
+      {
+        "title": "R&D Engineer",
+        "description": "Conduct research to develop innovative chemical processes and products."
+      }
+    ]
+  },
+  {
+    "university": "KNUST, Kumasi",
+    "faculty": "College of Engineering",
+    "programme": "Bachelor of Science in Computer Science",
+    "course_type": "Undergraduate",
+    "interest_area": "Engineering/Technology",
+    "core_subjects": ["English", "Core Mathematics", "Integrated Science"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Elective Mathematics", "Programming", "Logic"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "May require a coding aptitude test",
+    "job_prospects": [
+      {
+        "title": "Software Developer",
+        "description": "Design, code, and maintain software applications across multiple platforms."
+      },
+      {
+        "title": "Data Scientist",
+        "description": "Analyze large datasets and develop algorithms to extract actionable insights."
+      },
+      {
+        "title": "Algorithm Engineer",
+        "description": "Develop and optimize algorithms to solve complex computational problems."
+      }
+    ]
+  },
+  {
+    "university": "KNUST, Kumasi",
+    "faculty": "College of Computing",
+    "programme": "Bachelor of Science in Information Technology",
+    "course_type": "Undergraduate",
+    "interest_area": "IT/Technology",
+    "core_subjects": ["English", "Core Mathematics", "Integrated Science"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["IT Fundamentals", "Elective Mathematics"],
+    "elective_minimum_grade": "Minimum B3",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "Aptitude test required",
+    "job_prospects": [
+      {
+        "title": "IT Specialist",
+        "description": "Manage and support IT systems and infrastructure in various organizations."
+      },
+      {
+        "title": "Network Administrator",
+        "description": "Oversee network systems to ensure connectivity, security, and performance."
+      },
+      {
+        "title": "Cybersecurity Analyst",
+        "description": "Protect information systems by identifying vulnerabilities and implementing security measures."
+      }
+    ]
+  },
+  {
+    "university": "KNUST, Kumasi",
+    "faculty": "College of Architecture",
+    "programme": "Bachelor of Science in Architecture",
+    "course_type": "Undergraduate",
+    "interest_area": "Design/Engineering",
+    "core_subjects": ["English", "Core Mathematics", "Integrated Science"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Art", "Design", "Geometry"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "Portfolio review may be required",
+    "job_prospects": [
+      {
+        "title": "Architect",
+        "description": "Design functional and aesthetically pleasing buildings and urban spaces."
+      },
+      {
+        "title": "Urban Planner",
+        "description": "Develop plans for urban development and sustainable infrastructure."
+      },
+      {
+        "title": "Design Consultant",
+        "description": "Provide expert advice on architectural design and construction projects."
+      }
+    ]
+  },
+  {
+    "university": "KNUST, Kumasi",
+    "faculty": "College of Engineering",
+    "programme": "Bachelor of Science in Mining Engineering",
+    "course_type": "Undergraduate",
+    "interest_area": "Engineering/Mining",
+    "core_subjects": ["English", "Core Mathematics", "Integrated Science"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Physics", "Chemistry", "Elective Mathematics"],
+    "elective_minimum_grade": "Minimum B3 in Elective Mathematics",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "Aptitude test and/or interview",
+    "job_prospects": [
+      {
+        "title": "Mining Engineer",
+        "description": "Plan and oversee mineral extraction processes while ensuring operational safety."
+      },
+      {
+        "title": "Mine Manager",
+        "description": "Manage mining operations and coordinate activities on the mining site."
+      },
+      {
+        "title": "Safety Engineer",
+        "description": "Implement and monitor safety protocols in mining environments to protect workers."
+      }
+    ]
+  },
+  {
+    "university": "KNUST, Kumasi",
+    "faculty": "College of Engineering",
+    "programme": "Bachelor of Science in Petroleum Engineering",
+    "course_type": "Undergraduate",
+    "interest_area": "Engineering/Mining",
+    "core_subjects": ["English", "Core Mathematics", "Integrated Science"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Chemistry", "Physics", "Elective Mathematics"],
+    "elective_minimum_grade": "Minimum B3",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "Aptitude test required",
+    "job_prospects": [
+      {
+        "title": "Petroleum Engineer",
+        "description": "Design methods for extracting oil and gas efficiently from reservoirs."
+      },
+      {
+        "title": "Drilling Engineer",
+        "description": "Manage drilling operations and optimize well performance in oil fields."
+      },
+      {
+        "title": "Production Engineer",
+        "description": "Oversee the production process to maximize output and ensure operational safety."
+      }
+    ]
+  },
+  {
+    "university": "KNUST, Kumasi",
+    "faculty": "College of Engineering",
+    "programme": "Bachelor of Science in Industrial Engineering",
+    "course_type": "Undergraduate",
+    "interest_area": "Engineering/Management",
+    "core_subjects": ["English", "Core Mathematics", "Integrated Science"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Operations Research", "Elective Mathematics"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "",
+    "job_prospects": [
+      {
+        "title": "Process Engineer",
+        "description": "Optimize production processes to improve efficiency in manufacturing environments."
+      },
+      {
+        "title": "Operations Manager",
+        "description": "Oversee daily operations and streamline processes to boost productivity."
+      },
+      {
+        "title": "Quality Assurance Engineer",
+        "description": "Ensure products meet quality and safety standards through systematic evaluations."
+      }
+    ]
+  },
+  {
+    "university": "GIMPA",
+    "faculty": "College of Management",
+    "programme": "Bachelor of Science in Public Administration",
+    "course_type": "Undergraduate",
+    "interest_area": "Public Administration",
+    "core_subjects": ["English", "Mathematics", "Social Studies"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Management", "Political Science"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "",
+    "job_prospects": [
+      {
+        "title": "Public Sector Manager",
+        "description": "Lead administrative functions in government agencies and public institutions."
+      },
+      {
+        "title": "Policy Analyst",
+        "description": "Analyze public policies and provide recommendations to improve governmental operations."
+      },
+      {
+        "title": "Administrative Officer",
+        "description": "Manage day-to-day administrative tasks and support organizational efficiency."
+      }
+    ]
+  },
+  {
+    "university": "GIMPA",
+    "faculty": "College of Management",
+    "programme": "Bachelor of Arts in Business Administration",
+    "course_type": "Undergraduate",
+    "interest_area": "Business",
+    "core_subjects": ["English", "Mathematics", "Social Studies"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Economics", "Accounting"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "",
+    "job_prospects": [
+      {
+        "title": "Business Manager",
+        "description": "Oversee business operations and drive strategic growth initiatives."
+      },
+      {
+        "title": "Marketing Strategist",
+        "description": "Develop and implement marketing plans to enhance brand visibility."
+      },
+      {
+        "title": "Entrepreneur",
+        "description": "Launch and manage new business ventures in dynamic markets."
+      }
+    ]
+  },
+  {
+    "university": "GIMPA",
+    "faculty": "College of Management",
+    "programme": "Bachelor of Arts in Accounting",
+    "course_type": "Undergraduate",
+    "interest_area": "Business/Finance",
+    "core_subjects": ["English", "Mathematics", "Social Studies"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Accounting Principles", "Economics"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "",
+    "job_prospects": [
+      {
+        "title": "Financial Accountant",
+        "description": "Prepare and analyze financial records to ensure accuracy and regulatory compliance."
+      },
+      {
+        "title": "Auditor",
+        "description": "Examine financial statements and internal controls to ensure transparency."
+      },
+      {
+        "title": "Budget Analyst",
+        "description": "Develop and manage budgets to support organizational financial health."
+      }
+    ]
+  },
+  {
+    "university": "GIMPA",
+    "faculty": "College of Management",
+    "programme": "Bachelor of Arts in Human Resource Management",
+    "course_type": "Undergraduate",
+    "interest_area": "Business/Management",
+    "core_subjects": ["English", "Mathematics", "Social Studies"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Psychology", "Management Studies"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "",
+    "job_prospects": [
+      {
+        "title": "HR Manager",
+        "description": "Oversee recruitment, training, and employee relations in organizations."
+      },
+      {
+        "title": "Talent Acquisition Specialist",
+        "description": "Focus on recruiting and selecting the best candidates to meet organizational needs."
+      },
+      {
+        "title": "Organizational Development Consultant",
+        "description": "Advise companies on strategies to enhance workplace performance and culture."
+      }
+    ]
+  },
+  {
+    "university": "GIMPA",
+    "faculty": "College of Management",
+    "programme": "Bachelor of Science in Marketing",
+    "course_type": "Undergraduate",
+    "interest_area": "Business/Marketing",
+    "core_subjects": ["English", "Mathematics", "Social Studies"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Business Studies", "Economics"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "",
+    "job_prospects": [
+      {
+        "title": "Marketing Manager",
+        "description": "Lead marketing campaigns and develop strategies to promote products and services."
+      },
+      {
+        "title": "Digital Marketing Specialist",
+        "description": "Create and manage online marketing initiatives to boost digital presence."
+      },
+      {
+        "title": "Market Research Analyst",
+        "description": "Study market trends to provide insights and inform strategic decisions."
+      }
+    ]
+  },
+  {
+    "university": "GIMPA",
+    "faculty": "College of Management",
+    "programme": "Bachelor of Arts in International Relations",
+    "course_type": "Undergraduate",
+    "interest_area": "Social Sciences",
+    "core_subjects": ["English", "Social Studies", "Mathematics"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Political Science", "History"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "",
+    "job_prospects": [
+      {
+        "title": "Diplomat",
+        "description": "Represent your country and manage international relations through diplomatic service."
+      },
+      {
+        "title": "International Policy Advisor",
+        "description": "Advise on foreign policy and international cooperation initiatives."
+      },
+      {
+        "title": "Global Affairs Analyst",
+        "description": "Analyze international trends to provide insights for policy and strategy development."
+      }
+    ]
+  },
+  {
+    "university": "GIMPA",
+    "faculty": "College of Management",
+    "programme": "Bachelor of Arts in Economics",
+    "course_type": "Undergraduate",
+    "interest_area": "Business/Economics",
+    "core_subjects": ["English", "Mathematics", "Social Studies"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Economics", "Statistics"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "",
+    "job_prospects": [
+      {
+        "title": "Economic Analyst",
+        "description": "Study economic trends and provide analytical insights for business or policy decisions."
+      },
+      {
+        "title": "Policy Advisor",
+        "description": "Develop economic policies and advise stakeholders on fiscal matters."
+      },
+      {
+        "title": "Financial Consultant",
+        "description": "Offer expert advice on economic strategies and financial planning."
+      }
+    ]
+  },
+  {
+    "university": "GIMPA",
+    "faculty": "College of Management",
+    "programme": "Bachelor of Science in Entrepreneurship",
+    "course_type": "Undergraduate",
+    "interest_area": "Business",
+    "core_subjects": ["English", "Mathematics", "Social Studies"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Business Studies", "Economics"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "",
+    "job_prospects": [
+      {
+        "title": "Startup Founder",
+        "description": "Launch innovative ventures and drive business growth through entrepreneurship."
+      },
+      {
+        "title": "Business Consultant",
+        "description": "Advise small and medium enterprises on strategic and operational improvements."
+      },
+      {
+        "title": "Innovation Manager",
+        "description": "Lead innovation initiatives within organizations to foster new product development."
+      }
+    ]
+  },
+  {
+    "university": "GIMPA",
+    "faculty": "College of Communication",
+    "programme": "Bachelor of Arts in Communication Studies",
+    "course_type": "Undergraduate",
+    "interest_area": "Media/Communications",
+    "core_subjects": ["English", "Social Studies", "Mathematics"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Media Studies", "Public Relations"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "",
+    "job_prospects": [
+      {
+        "title": "Public Relations Specialist",
+        "description": "Craft and manage effective communication strategies to enhance public image."
+      },
+      {
+        "title": "Media Producer",
+        "description": "Oversee the production of multimedia content for various digital and traditional platforms."
+      },
+      {
+        "title": "Corporate Communications Manager",
+        "description": "Lead internal and external communication initiatives within organizations."
+      }
+    ]
+  },
+  {
+    "university": "GIMPA",
+    "faculty": "College of Management",
+    "programme": "Bachelor of Science in Finance",
+    "course_type": "Undergraduate",
+    "interest_area": "Business/Finance",
+    "core_subjects": ["English", "Mathematics", "Social Studies"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Accounting", "Economics"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "",
+    "job_prospects": [
+      {
+        "title": "Investment Analyst",
+        "description": "Evaluate investment opportunities and manage portfolio strategies."
+      },
+      {
+        "title": "Financial Planner",
+        "description": "Develop comprehensive financial plans for individuals or organizations."
+      },
+      {
+        "title": "Risk Manager",
+        "description": "Identify and mitigate financial risks to safeguard organizational assets."
+      }
+    ]
+  },
+  {
+    "university": "University for Development Studies",
+    "faculty": "College of Agriculture/Agribusiness",
+    "programme": "Bachelor of Science in Agribusiness",
+    "course_type": "Undergraduate",
+    "interest_area": "Agriculture/Business",
+    "core_subjects": ["English", "Mathematics", "Integrated Science/Social Studies"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Agricultural Science", "Economics"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "Interview or additional screening",
+    "job_prospects": [
+      {
+        "title": "Agribusiness Manager",
+        "description": "Manage operations within the agricultural sector to optimize production and profitability."
+      },
+      {
+        "title": "Supply Chain Analyst",
+        "description": "Streamline the supply chain processes in agribusiness to enhance efficiency."
+      },
+      {
+        "title": "Agricultural Consultant",
+        "description": "Advise on modern farming techniques and business strategies in agriculture."
+      }
+    ]
+  },
+  {
+    "university": "University for Development Studies",
+    "faculty": "College of Agriculture/Agribusiness",
+    "programme": "Bachelor of Science in Agricultural Economics",
+    "course_type": "Undergraduate",
+    "interest_area": "Agriculture/Economics",
+    "core_subjects": ["English", "Mathematics", "Integrated Science/Social Studies"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Economics", "Agricultural Science"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "",
+    "job_prospects": [
+      {
+        "title": "Agricultural Economist",
+        "description": "Analyze economic factors affecting the agricultural sector and advise on policy."
+      },
+      {
+        "title": "Policy Analyst",
+        "description": "Develop policies to support sustainable agricultural development."
+      },
+      {
+        "title": "Research Economist",
+        "description": "Conduct research to guide economic decision-making in agriculture."
+      }
+    ]
+  },
+  {
+    "university": "University for Development Studies",
+    "faculty": "College of Agriculture/Agribusiness",
+    "programme": "Bachelor of Science in Animal Science",
+    "course_type": "Undergraduate",
+    "interest_area": "Agriculture/Science",
+    "core_subjects": ["English", "Mathematics", "Integrated Science/Social Studies"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Biology", "Agricultural Science"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "",
+    "job_prospects": [
+      {
+        "title": "Livestock Manager",
+        "description": "Oversee animal production systems and improve livestock productivity."
+      },
+      {
+        "title": "Veterinary Support Specialist",
+        "description": "Assist in the implementation of animal health and nutrition programs."
+      },
+      {
+        "title": "Animal Research Scientist",
+        "description": "Conduct research to enhance animal welfare and production techniques."
+      }
+    ]
+  },
+  {
+    "university": "University for Development Studies",
+    "faculty": "College of Agriculture/Agribusiness",
+    "programme": "Bachelor of Science in Forestry",
+    "course_type": "Undergraduate",
+    "interest_area": "Agriculture/Environment",
+    "core_subjects": ["English", "Mathematics", "Social Studies"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Biology", "Environmental Science"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "",
+    "job_prospects": [
+      {
+        "title": "Forest Manager",
+        "description": "Manage forest resources and implement sustainable logging practices."
+      },
+      {
+        "title": "Conservation Officer",
+        "description": "Work to preserve natural habitats and protect biodiversity."
+      },
+      {
+        "title": "Environmental Consultant",
+        "description": "Advise organizations on sustainable forestry and environmental management."
+      }
+    ]
+  },
+  {
+    "university": "University for Development Studies",
+    "faculty": "College of Agriculture/Agribusiness",
+    "programme": "Bachelor of Science in Rural Development",
+    "course_type": "Undergraduate",
+    "interest_area": "Development Studies",
+    "core_subjects": ["English", "Mathematics", "Social Studies"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Economics", "Sociology"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "",
+    "job_prospects": [
+      {
+        "title": "Rural Development Officer",
+        "description": "Implement projects that improve infrastructure and quality of life in rural areas."
+      },
+      {
+        "title": "Community Planner",
+        "description": "Design and coordinate development programs tailored to rural communities."
+      },
+      {
+        "title": "NGO Program Manager",
+        "description": "Lead and manage development initiatives within non-governmental organizations."
+      }
+    ]
+  },
+  {
+    "university": "University for Development Studies",
+    "faculty": "College of Agriculture/Agribusiness",
+    "programme": "Bachelor of Science in Food Science and Technology",
+    "course_type": "Undergraduate",
+    "interest_area": "Science/Agriculture",
+    "core_subjects": ["English", "Mathematics", "Integrated Science"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Chemistry", "Biology", "Agricultural Science"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "",
+    "job_prospects": [
+      {
+        "title": "Food Quality Control Analyst",
+        "description": "Ensure food products meet industry safety and quality standards."
+      },
+      {
+        "title": "Product Development Specialist",
+        "description": "Innovate and improve food processing methods and product formulations."
+      },
+      {
+        "title": "R&D Officer",
+        "description": "Conduct research to enhance food technology and sustainability."
+      }
+    ]
+  },
+  {
+    "university": "University for Development Studies",
+    "faculty": "College of Agriculture/Agribusiness",
+    "programme": "Bachelor of Science in Natural Resource Management",
+    "course_type": "Undergraduate",
+    "interest_area": "Agriculture/Environment",
+    "core_subjects": ["English", "Mathematics", "Social Studies"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Biology", "Environmental Science"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "",
+    "job_prospects": [
+      {
+        "title": "Resource Manager",
+        "description": "Oversee the sustainable use of natural resources in public and private sectors."
+      },
+      {
+        "title": "Environmental Planner",
+        "description": "Develop strategies for sustainable resource management and conservation."
+      },
+      {
+        "title": "Sustainability Consultant",
+        "description": "Advise organizations on best practices for environmental and resource sustainability."
+      }
+    ]
+  },
+  {
+    "university": "University for Development Studies",
+    "faculty": "College of Social Sciences",
+    "programme": "Bachelor of Arts in Development Studies",
+    "course_type": "Undergraduate",
+    "interest_area": "Development Studies",
+    "core_subjects": ["English", "Social Studies", "Mathematics"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Political Science", "Economics"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "30",
+    "additional_requirements": "",
+    "job_prospects": [
+      {
+        "title": "Development Coordinator",
+        "description": "Coordinate projects that drive socio-economic development in various communities."
+      },
+      {
+        "title": "Policy Advisor",
+        "description": "Provide recommendations to improve development policies and implementation strategies."
+      },
+      {
+        "title": "NGO Program Officer",
+        "description": "Manage and monitor development programs in non-governmental organizations."
+      }
+    ]
+  },
+  {
+    "university": "University for Development Studies",
+    "faculty": "College of Agriculture/Agribusiness",
+    "programme": "Bachelor of Science in Agricultural Extension",
+    "course_type": "Undergraduate",
+    "interest_area": "Agriculture",
+    "core_subjects": ["English", "Mathematics", "Integrated Science/Social Studies"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Agricultural Science", "Communication"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "",
+    "job_prospects": [
+      {
+        "title": "Agricultural Extension Officer",
+        "description": "Provide technical guidance and training to farmers on modern agricultural practices."
+      },
+      {
+        "title": "Field Consultant",
+        "description": "Work directly with farming communities to implement sustainable techniques."
+      },
+      {
+        "title": "Community Educator",
+        "description": "Educate rural populations on innovative farming methods and technologies."
+      }
+    ]
+  },
+  {
+    "university": "University for Development Studies",
+    "faculty": "College of Social Sciences",
+    "programme": "Bachelor of Arts in Communication and Development",
+    "course_type": "Undergraduate",
+    "interest_area": "Development Studies/Communications",
+    "core_subjects": ["English", "Social Studies", "Mathematics"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Media Studies", "Development Communication"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "30",
+    "additional_requirements": "",
+    "job_prospects": [
+      {
+        "title": "Development Communication Specialist",
+        "description": "Design and implement communication strategies that promote social change and development."
+      },
+      {
+        "title": "Media and Outreach Coordinator",
+        "description": "Manage outreach programs and coordinate media campaigns to support development initiatives."
+      },
+      {
+        "title": "Public Information Officer",
+        "description": "Disseminate critical development information through various communication channels."
+      }
+    ]
+  },
+  {
+    "university": "University of Mines and Technology",
+    "faculty": "College of Engineering",
+    "programme": "Bachelor of Science in Mining Engineering",
+    "course_type": "Undergraduate",
+    "interest_area": "Engineering/Mining",
+    "core_subjects": ["English", "Core Mathematics", "Integrated Science"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Physics", "Chemistry", "Elective Mathematics"],
+    "elective_minimum_grade": "Minimum B3 in Elective Mathematics",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "Aptitude test and/or interview",
+    "job_prospects": [
+      {
+        "title": "Mining Engineer",
+        "description": "Plan and manage mineral extraction processes while ensuring operational safety."
+      },
+      {
+        "title": "Mine Supervisor",
+        "description": "Oversee daily mining operations and ensure compliance with industry standards."
+      },
+      {
+        "title": "Safety Engineer",
+        "description": "Implement safety protocols and risk management strategies in mining environments."
+      }
+    ]
+  },
+  {
+    "university": "University of Mines and Technology",
+    "faculty": "College of Engineering",
+    "programme": "Bachelor of Science in Mineral Processing",
+    "course_type": "Undergraduate",
+    "interest_area": "Engineering/Mining",
+    "core_subjects": ["English", "Core Mathematics", "Integrated Science"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Chemistry", "Physics", "Elective Mathematics"],
+    "elective_minimum_grade": "Minimum B3",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "Interview may be required",
+    "job_prospects": [
+      {
+        "title": "Process Engineer",
+        "description": "Design and optimize systems for the efficient processing of minerals."
+      },
+      {
+        "title": "Plant Manager",
+        "description": "Oversee operations at a mineral processing facility to maximize productivity."
+      },
+      {
+        "title": "Quality Control Analyst",
+        "description": "Monitor processes to ensure that products meet quality standards."
+      }
+    ]
+  },
+  {
+    "university": "University of Mines and Technology",
+    "faculty": "College of Engineering",
+    "programme": "Bachelor of Science in Geological Engineering",
+    "course_type": "Undergraduate",
+    "interest_area": "Engineering/Geoscience",
+    "core_subjects": ["English", "Core Mathematics", "Integrated Science"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Geology", "Physics", "Chemistry"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "May require field assessments",
+    "job_prospects": [
+      {
+        "title": "Geological Engineer",
+        "description": "Conduct surveys and analyze geological data to support mining projects."
+      },
+      {
+        "title": "Exploration Manager",
+        "description": "Lead teams in the exploration of mineral deposits and resource estimation."
+      },
+      {
+        "title": "Environmental Impact Assessor",
+        "description": "Evaluate and mitigate the environmental impacts of mining operations."
+      }
+    ]
+  },
+  {
+    "university": "University of Mines and Technology",
+    "faculty": "College of Engineering",
+    "programme": "Bachelor of Science in Mechanical Engineering (Mining Focus)",
+    "course_type": "Undergraduate",
+    "interest_area": "Engineering/Mining",
+    "core_subjects": ["English", "Core Mathematics", "Integrated Science"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Physics", "Mechanics", "Elective Mathematics"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "May require technical assessments",
+    "job_prospects": [
+      {
+        "title": "Mining Equipment Engineer",
+        "description": "Design and maintain mechanical equipment used in mining operations."
+      },
+      {
+        "title": "Maintenance Supervisor",
+        "description": "Oversee the upkeep and repair of mining machinery to ensure optimal performance."
+      },
+      {
+        "title": "Project Engineer",
+        "description": "Manage engineering projects related to the development of mining infrastructure."
+      }
+    ]
+  },
+  {
+    "university": "University of Mines and Technology",
+    "faculty": "College of Engineering",
+    "programme": "Bachelor of Science in Electrical Engineering (Mining Focus)",
+    "course_type": "Undergraduate",
+    "interest_area": "Engineering/Mining",
+    "core_subjects": ["English", "Core Mathematics", "Integrated Science"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Physics", "Elective Mathematics"],
+    "elective_minimum_grade": "Minimum B3",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "Aptitude test required",
+    "job_prospects": [
+      {
+        "title": "Electrical Systems Engineer",
+        "description": "Design and maintain electrical systems tailored to mining environments."
+      },
+      {
+        "title": "Automation Engineer",
+        "description": "Implement automated solutions to improve mining process efficiency."
+      },
+      {
+        "title": "Power Distribution Specialist",
+        "description": "Ensure reliable electrical power distribution within mining facilities."
+      }
+    ]
+  },
+  {
+    "university": "University of Mines and Technology",
+    "faculty": "College of Engineering",
+    "programme": "Bachelor of Science in Civil Engineering (Mining Infrastructure)",
+    "course_type": "Undergraduate",
+    "interest_area": "Engineering/Construction",
+    "core_subjects": ["English", "Core Mathematics", "Integrated Science"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Elective Mathematics", "Physics", "Chemistry"],
+    "elective_minimum_grade": "Minimum B3",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "Interview may be required",
+    "job_prospects": [
+      {
+        "title": "Infrastructure Engineer",
+        "description": "Design and maintain mining infrastructure such as roads and facilities."
+      },
+      {
+        "title": "Construction Manager",
+        "description": "Oversee construction projects related to mining sites to ensure safety and efficiency."
+      },
+      {
+        "title": "Urban Planner",
+        "description": "Plan and develop community layouts and support infrastructure around mining operations."
+      }
+    ]
+  },
+  {
+    "university": "University of Mines and Technology",
+    "faculty": "College of Engineering",
+    "programme": "Bachelor of Science in Chemical Engineering (Mining)",
+    "course_type": "Undergraduate",
+    "interest_area": "Engineering/Chemical",
+    "core_subjects": ["English", "Core Mathematics", "Integrated Science"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Chemistry", "Physics", "Elective Mathematics"],
+    "elective_minimum_grade": "Minimum B3",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "Aptitude test may be required",
+    "job_prospects": [
+      {
+        "title": "Process Optimization Engineer",
+        "description": "Improve chemical processes within mining operations for better efficiency."
+      },
+      {
+        "title": "Production Manager",
+        "description": "Oversee chemical processing plants in mining contexts to ensure optimal production."
+      },
+      {
+        "title": "R&D Specialist",
+        "description": "Conduct research to develop innovative chemical solutions in the mining industry."
+      }
+    ]
+  },
+  {
+    "university": "University of Mines and Technology",
+    "faculty": "College of Engineering",
+    "programme": "Bachelor of Science in Environmental Engineering (Mining)",
+    "course_type": "Undergraduate",
+    "interest_area": "Engineering/Environment",
+    "core_subjects": ["English", "Core Mathematics", "Integrated Science"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Biology", "Chemistry", "Elective Mathematics"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "",
+    "job_prospects": [
+      {
+        "title": "Environmental Engineer",
+        "description": "Design systems to minimize environmental impacts of mining operations."
+      },
+      {
+        "title": "Compliance Officer",
+        "description": "Ensure mining activities meet environmental regulations and standards."
+      },
+      {
+        "title": "Sustainability Consultant",
+        "description": "Advise mining companies on sustainable practices and environmental management."
+      }
+    ]
+  },
+  {
+    "university": "University of Mines and Technology",
+    "faculty": "College of Engineering",
+    "programme": "Bachelor of Science in Metallurgical Engineering",
+    "course_type": "Undergraduate",
+    "interest_area": "Engineering/Materials",
+    "core_subjects": ["English", "Core Mathematics", "Integrated Science"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Chemistry", "Physics", "Elective Mathematics"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "",
+    "job_prospects": [
+      {
+        "title": "Metallurgical Engineer",
+        "description": "Work on the extraction and processing of metals from ores."
+      },
+      {
+        "title": "Materials Scientist",
+        "description": "Research and develop new alloys and materials for industrial use."
+      },
+      {
+        "title": "Quality Control Specialist",
+        "description": "Ensure metallurgical processes meet quality standards and regulatory requirements."
+      }
+    ]
+  },
+  {
+    "university": "University of Mines and Technology",
+    "faculty": "College of Engineering",
+    "programme": "Bachelor of Science in Industrial Safety and Health Engineering",
+    "course_type": "Undergraduate",
+    "interest_area": "Engineering/Safety",
+    "core_subjects": ["English", "Core Mathematics", "Integrated Science"],
+    "core_minimum_grade": "A1–C6",
+    "elective_subjects": ["Safety Management", "Health Sciences"],
+    "elective_minimum_grade": "A1–C6",
+    "aggregate_cut_off": "24",
+    "additional_requirements": "",
+    "job_prospects": [
+      {
+        "title": "Safety Engineer",
+        "description": "Design and implement safety protocols in industrial and mining environments."
+      },
+      {
+        "title": "Health and Safety Manager",
+        "description": "Oversee occupational health programs and ensure compliance with safety regulations."
+      },
+      {
+        "title": "Risk Assessment Specialist",
+        "description": "Conduct risk assessments and develop strategies to minimize workplace hazards."
+      }
+    ]
+  }
+]
