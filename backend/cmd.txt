@@ -1,7 +1,12 @@
-python -m uvicorn main:app --reload
-
-
+py -3.11 -m venv venv
 . venv/Scripts/activate
+
+pip install -r requirements.txt
+
+python -m uvicorn main:app --reload
+py -m uvicorn main:app --reload
+
+
 
 
 url:  http://127.0.0.1:8000/docs
