@@ -1,1 +1,1 @@
-Edupath is an Ai programme recommended system under development using Python, FastAPI and Reactnative Expo for mobile app.
+Edupath is an Ai programme recommendation system under development using Python, FastAPI and Reactnative Expo for mobile app.
